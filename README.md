@@ -1,5 +1,7 @@
 # DSH Plugin Dev
 
+中文 | [English](README.en.md)
+
 本仓库的四个技能均来源于 **DeepSeek 官方开源项目 [DSH（DeepSeek Harness）](https://github.com/deepseek-ai/deepseek-harness)**。这里只做重新整理，方便在其他开发工具中使用；技能正文、参考资料和模板均保留官方原文。
 
 这是社区整理仓库，与 DeepSeek 官方无隶属关系。原始内容的版权和 MIT 许可归属见 [LICENSE](LICENSE)。
